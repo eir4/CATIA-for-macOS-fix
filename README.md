@@ -1,6 +1,8 @@
 # CATIA-for-macOS-fix
 OpenGL custom drivers for CATIA running on macOS via CrossOver
 
+Driver should be dropped inside the intel_a -> code -> bin folder, along with mesa dist win (mesa-llvmpipe-x86-26.2.6), renaming Mesa's opengl32 to _opengl32_mesa.dll
+
 
 Before:
 <img width="1408" height="881" alt="Screenshot 2026-11-01 at 9 57 48 p m" src="https://github.com/user-attachments/assets/d066baf4-f647-4323-92e5-4c4a121627f7" />
